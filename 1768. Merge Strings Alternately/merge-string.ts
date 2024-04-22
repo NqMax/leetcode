@@ -44,3 +44,6 @@ function mergeAlternately2(word1: string, word2: string): string {
   }
   return mergedString;
 }
+
+mergeAlternately("abc", "pqr");
+mergeAlternately2("abc", "pqr");
